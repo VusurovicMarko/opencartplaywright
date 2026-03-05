@@ -1,0 +1,4 @@
+Exception ocurred while clicking 'Register': Error: locator.click: Unexpected token "")"" while parsing css selector "a:has-text(Register')". Did you mean to CSS.escape it?
+Call log:
+  - waiting for a:has-text(Register')
+
